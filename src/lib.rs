@@ -1,4 +1,3 @@
-#![feature(nll)]
 mod point;
 mod simplex_tree;
 
